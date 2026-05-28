@@ -1,10 +1,13 @@
 # CLAUDE.md — Instruções do projeto
 
-## Gatilho: "MODELO YUFIL" / "modelo Base Estratégica"
+## Gatilho: "modelo padrão" / "MODELO YUFIL" / "modelo Base Estratégica"
 
-Quando o usuário pedir para **gerar uma apresentação no "MODELO YUFIL"** (ou
-"modelo Base Estratégica"), ele quer um `.pptx` seguindo EXATAMENTE o padrão
-visual documentado neste repositório. Não invente outro estilo.
+Este é o **modelo PADRÃO** do projeto. Quando o usuário pedir para gerar uma
+apresentação usando qualquer um destes termos — **"modelo padrão"**,
+**"MODELO YUFIL"** ou **"modelo Base Estratégica"** — ele quer um `.pptx`
+seguindo EXATAMENTE o padrão visual documentado neste repositório.
+Na dúvida, qualquer pedido de "gerar apresentação" sem outro modelo
+especificado deve usar este padrão. Não invente outro estilo.
 
 ### Como executar o pedido
 1. Leia o padrão completo em **`MODELO-APRESENTACAO-YUFIL.md`** (formato, paleta,
